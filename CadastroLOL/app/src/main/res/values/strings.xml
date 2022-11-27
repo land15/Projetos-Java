@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Cadastro LOL</string>
+    <string name="imagem">imagem</string>
+    <string name="login">Login</string>
+    <string name="digite_usuario">Digite seu Usuário</string>
+    <string name="digite_senha">Digite sua Senha</string>
+    <string name="button_logar">Logar</string>
+    <string name="button_registrar">Registrar</string>
+    <string name="titulo_tela_dados">Bem Vindo</string>
+    <string name="button_cadastrar_champions">Cadastrar Champion</string>
+    <string name="consultar_dados">Consultar Dados</string>
+    <string name="vazio" />
+    <string name="titulo_cadastro_champion">Cadastre seu Champion</string>
+    <string name="nome_champion">Digite o Nome do Champion</string>
+    <string name="top_laner">Top</string>
+    <string name="mid_laner">Mid</string>
+    <string name="jungle">Jungle</string>
+    <string name="adc_laner">Adc</string>
+    <string name="suport_laner">Sup</string>
+    <string name="titulo_escolha_rota">Selecione as Rotas do Champion</string>
+    <string name="voltar_tela_inicial">Voltar</string>
+</resources>
